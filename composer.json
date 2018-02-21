@@ -1,0 +1,21 @@
+{
+  "name": "prekowski/tdd-kata",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Paweł Rekowski",
+      "email": "pawel.rekowski@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "": "./src"
+    }
+  },
+  "require": {
+
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7"
+  }
+}
